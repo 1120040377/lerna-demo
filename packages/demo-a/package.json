@@ -1,6 +1,6 @@
 {
   "name": "demo-a",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "license": "ISC",
   "devDependencies": {
     "jdialog": "^1.0.1"
-  }
+  },
+  "gitHead": "b079aa95db913a6481bc1bdfd1bdaed2449db632"
 }
